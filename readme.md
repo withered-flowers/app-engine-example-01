@@ -1,4 +1,4 @@
-## Google App Example 01
+## Google App Example - Custom Domain
 This apps is created using Koa + EJS.
 
 ### Description:
